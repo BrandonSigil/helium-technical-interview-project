@@ -21,7 +21,7 @@ repository and an estimate of time spent. Feel free to include any other details
 > Note: You are encouraged to use third-party libraries! The purpose of this challenge is to be practical, as you would
 > have all these tools at your disposal in the real world.  
 > 
-> We also appreciate clean interfaces, so be creative :)
+> We also appreciate well-designed interfaces, so be creative :)
 
 ## Challenge: Build a `ChoiceList` React component
 
