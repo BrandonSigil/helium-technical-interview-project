@@ -5,7 +5,7 @@ using a more practical assessment.
 
 **Setup**:
 
-- Clone the repo (**do not fork.**)
+- Clone the repo
 - `cd helium-technical-interview-project`
 - `yarn`
 - `yarn dev`
