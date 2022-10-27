@@ -128,10 +128,10 @@ header
     display: flex
     align-items: center
     padding-top: 3rem
-
-    .MuiFormControl-root
-      margin: 0 1.3rem
-
+    margin: 0
+    flex-direction: column
+    div
+      margin-bottom: 12px
 .choosey-title
   display: flex
   flex-direction: row
@@ -150,3 +150,8 @@ header
   line-height: 1.35
   color: $subdued
   margin-top: -15px
+
+.choicelist-container
+  &.choice-list-carousel
+    &.MuiFormControl-root
+     margin: 0
